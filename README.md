@@ -4,7 +4,9 @@ This project aims to predict arguments given a predicate using the Nombank datas
 
 ## Dataset
 
-The Nombank dataset was used for training and evaluation. The training dataset consisted of 2174 sentences, while the test dataset had 150 sentences. The data was preprocessed by encoding the token, POS (Part-of-Speech), and BIO (Begin, Inside, Outside) features into numeric values.
+The [Nombank dataset](https://nlp.cs.nyu.edu/meyers/NomBank.html) was used for training and evaluation. The training dataset consisted of 2174 sentences, while the test dataset had 150 sentences. The data was preprocessed by encoding the token, POS (Part-of-Speech), and BIO (Begin, Inside, Outside) features into numeric values.
+
+The cleaned version data of PERCENTAGE class from the nombank dataset is used here. However, this project can be used for any other class of nombank as well. The dataset %_nombank.clean.train is shared in the repository.
 
 ## Preprocessing
 
