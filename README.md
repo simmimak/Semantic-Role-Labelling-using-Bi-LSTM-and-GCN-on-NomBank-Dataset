@@ -1,4 +1,4 @@
-# Semantic-Role-Labelling-using-Bi-LSTMs-and-GCNs
+# Semantic-Role-Labelling-using-Bi-LSTM-and-GCN
 
 This project aims to predict arguments given a predicate using the Nombank dataset. It employs a combination of Bi-LSTMs and Graph Convolutional Networks (GCNs) to achieve accurate predictions.
 
